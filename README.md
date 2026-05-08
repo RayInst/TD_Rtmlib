@@ -7,7 +7,7 @@ Quick Start
 
 1. Get Model Files
 Download the pre-trained ONNX models:
-Google Drive Model Package
+[Google Drive Model Package](https://drive.google.com/file/d/1UElfp2XPD-svQZzmWGykzhOd1CKug74h/view?usp=sharing)
 Extract the downloaded ZIP file
 Place all model files into the models/ folder in your project directory
 
