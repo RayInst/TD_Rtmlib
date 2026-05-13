@@ -35,6 +35,7 @@ echo Found Python: %PY%
 
 "%PY%" -m pip install --upgrade pip
 "%PY%" -m pip install rtmlib  --no-deps
+"%PY%" -m pip install tqdm
 :: "%PY%" -m pip uninstall onnxruntime -y
 "%PY%" -m pip install --no-cache-dir onnxruntime-gpu
 
